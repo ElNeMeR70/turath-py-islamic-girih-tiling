@@ -1,0 +1,7 @@
+[project]
+name = "turath-py-islamic-girih-tiling"
+version = "1.0.0"
+description = "Islamic Star Polygon & Decagonal Girih Strapwork Geometry Generator (مولد الزخارف الهندسية الإسلامية المضلعة Girih)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Mahmoud ElNemer", email = "sultanelnemer@gmail.com" }]
